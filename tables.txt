@@ -1,0 +1,38 @@
+Appointment Information
+101	21/02/2021	DP003	DD543	TS0023	
+102	05/10/2021	DP004	DD098	TS0024	
+103	15/09/2020	DP004	DD098	TS0109	
+104	04/04/2019	DP001	DD102	TS0025	
+
+Bills Information
+DWK2679Y	200	TS0024	
+DWK3389P	75	TS0023	
+
+Doctor Information
+DD098	Dexter	682365	Animal welfare	
+DD101	Augustus	3748475	Gum Care	
+DD102	Micheal	234739	Behavioral medicine	
+DD543	Prathusha	9834598	Anesthesia and analgesia	
+
+animal Information
+DP001	Dog	Vikram	84567643	30	New jersey	
+DP002	Dog	Stephen	83251890	27	New jersey	
+DP003	Cow	Ronald	546439335	22	Newark	
+DP004	Cat	Suzy	437999217	32	New jersey	
+DP005	buffalo	Rose	549278460	24	Trenton	
+DP010	dog	Clair	4782964	10	los angeles	
+zimba	cat	kailash	9838583	5	new york	
+
+Transactions Information
+TS0023	DWK3389P	TT1001	
+TS0024	DWK2679Y	TT1002	
+TS0025	DWK7233T	TT1004	
+TS0109	DWK0029E	TT1005	
+
+Treatement Information
+TT1001	Antiparasitics	
+TT1002	Antifungals	
+TT1003	Pain Relievers	
+TT1004	Vaccination	
+TT1005	Antibiotics	
+
